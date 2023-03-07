@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sun_rise">Mặt trời mọc</string>
+    <string name="wind">Vận tốc gió</string>
+    <string name="humidity">Độ ẩm</string>
+
+    <string name="feature_group_tab">Tính năng</string>
+    <string name="current_weather_tab">Thời tiết hiện tại</string>
+    <string name="retry">Thử lại</string>
+    <string name="invalid">Invalid</string>
+    <string name="unknown_address">Không xác định</string>
+
+    <string name="uvi_extreme">Nguy hiểm, %1$s</string>
+    <string name="uvi_very_high">Rất cao, %1$s</string>
+    <string name="uvi_high">Cao, %1$s</string>
+    <string name="uvi_moderate">Vừa phải, %1$s</string>
+    <string name="uvi_low">Thấp, %1$s</string>
+
+    <string name="error_title_http">Lỗi - HTTP</string>
+    <string name="error_message_preferences">Lỗi - Preferences</string>
+    <string name="error_message_default">Có lỗi gì đó!</string>
+    <string name="home_text_celsius_high_low">C %1$s\u2103 / T %2$s\u2103</string>
+    <string name="error_message_network">Lỗi - Mạng</string>
+    <string name="error_message_http">Mã: %1$d\nUrl: %2$s</string>
+</resources>
